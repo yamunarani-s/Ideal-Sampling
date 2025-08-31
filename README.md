@@ -293,11 +293,12 @@ plt.tight_layout()
 
 plt.show()
 # Output Waveform
-(https://github.com/user-attachments/assets/5223f72d-6e35-404e-a38c-c08026f1061e)
-(https://github.com/user-attachments/assets/5e6c7621-87c4-49ef-a89a-8bacf2e09dc5)
-(https://github.com/user-attachments/assets/29b3027a-ade0-4f28-89f6-14bccf3131b4)
-
-
+IDEAL SAMPLING
+![WhatsApp Image 2025-08-31 at 11 55 53_09c2da3c](https://github.com/user-attachments/assets/d534f632-ec22-4588-bd50-4b7ef0346c3c)
+NATURAL SAMPLING
+![WhatsApp Image 2025-08-31 at 11 55 53_89d29c14](https://github.com/user-attachments/assets/ecd98ef5-9fbe-4316-b2dd-5fc3002b22ae)
+FLAT TOP SAMPLING
+![WhatsApp Image 2025-08-31 at 11 55 53_afc7d589](https://github.com/user-attachments/assets/65dfa5eb-da48-4736-b30f-835895c059f8)
 # Results
 Hence the Python program for the construction and reconstruction of ideal, natural, and flattop sampling is executed and output waveforms are obtained.
-# Hardware experiment output waveform.
+
